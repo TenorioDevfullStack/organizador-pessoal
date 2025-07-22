@@ -1,3 +1,4 @@
+/* eslint-disable no-restricted-globals */
 // Service Worker básico para PWA
 const CACHE_NAME = 'organizador-financeiro-cache-v1';
 const urlsToCache = [
